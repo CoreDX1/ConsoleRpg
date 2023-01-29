@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIHVDE/BsqiRYu8u3P0CmgfkouhdwAkGiVdOYaJvyhA6P+Mtup/H7jXSmI8OcCh953v5xh+xDRxUWtU2IG3bfw==",
+  "success": true,
+  "projectFilePath": "/home/core/Desktop/BackEnd/CSharpConsoleRpg/CSharpConsoleRpg.csproj",
+  "expectedPackageFiles": [
+    "/home/core/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/bin/Debug/net7.0/CSharpConsoleRpg
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/bin/Debug/net7.0/CSharpConsoleRpg.deps.json
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/bin/Debug/net7.0/CSharpConsoleRpg.runtimeconfig.json
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/bin/Debug/net7.0/CSharpConsoleRpg.dll
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/bin/Debug/net7.0/CSharpConsoleRpg.pdb
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.csproj.AssemblyReference.cache
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.AssemblyInfoInputs.cache
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.AssemblyInfo.cs
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.csproj.CoreCompileInputs.cache
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.dll
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/refint/CSharpConsoleRpg.dll
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.pdb
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/CSharpConsoleRpg.genruntimeconfig.cache
+/home/core/Desktop/BackEnd/CSharpConsoleRpg/obj/Debug/net7.0/ref/CSharpConsoleRpg.dll
